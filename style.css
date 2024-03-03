@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0; box-sizing: border-box;list-style: none;}
+.sections{max-width: 80%; margin: 0 auto;}
+.header{display: flex; justify-content: space-between;padding: 10px;}
+.navigation-menu {display:flex;line-height: 40px;}
+.navigation-menu li {margin-right: 20px; font-weight: bold;}
+.navigation-menu li:last-child {margin-right: 0;}
+.firsth1{margin-top: 88px; margin-bottom: 88px; font-size: x-large;}
+.first img{width: 100%; border-radius: 30px;}
+.firstp{font-weight: bold;font-size:1.625rem; width:55%;margin-top:40px;}
+.second{margin:100px auto; text-align: center;width: 40%;}
+.second span{font-weight: bold;font-size: 1rem;}
+.second h2{font-size:1.625rem;;margin-top: 20px;}
+.second p{margin-top: 20px;}
